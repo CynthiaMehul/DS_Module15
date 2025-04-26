@@ -1,4 +1,4 @@
-# Ex14 Heap Tree
+# Ex 3D Heap Tree
 ## DATE: 26.04.2025
 ## AIM:
 To write a C function to delete an element in a Heap Tree.
